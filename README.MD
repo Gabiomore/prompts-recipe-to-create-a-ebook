@@ -44,11 +44,11 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em Python, listando os principais seletores Python com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Uma ilustração digital fantasiosa servindo como capa de e-book, sem título, que exala uma vibe nerd, inspirada no conceito de Pythonverse: O Multiverso do Código. A obra apresenta uma representação estilizada e futurista de um portal ou entrada, com linhas em espiral e circuitos que lembram código de computador, misturando-se perfeitamente com elementos celestiais como estrelas, planetas e nebulosas. As cores dominantes são uma paleta de azuis profundos e roxos, evocando um sentimento de mistério e outras dimensões, contrastadas com toques de azul elétrico e verde brilhante, simbolizando inovação e tecnologia. Em primeiro plano, uma silhueta tênue e estilizada de um programador ou codificador é vista, rodeada por laptops, dispositivos e fios, com padrões sutis de circuitos brilhantes gravados em sua pele, como se fossem um com o código. O design geral é intricado, detalhado e hipnotizante, com uma sensação de profundidade e dimensionalidade, convidando o espectador a explorar as infinitas possibilidades do Pythonverse. |
 
 ## ✨ Features
 
