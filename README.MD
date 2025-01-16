@@ -31,7 +31,8 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo AI](https://leonardo.ai)
-- [Libre Office]()
+- 
+- Libre Office
 
 ## 🧠 Prompts
 
